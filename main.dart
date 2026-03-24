@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_1/productApp.dart';
+import 'package:flutter_2/newsApp.dart';
 
-void main() => runApp(ProductApp());
-
-
-
+void main() => runApp(NewsApp());
